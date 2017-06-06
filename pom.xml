@@ -8,7 +8,7 @@
     <artifactId>twitter-text</artifactId>
     <groupId>com.afrozaar.util.gwt.twitter</groupId>
     <packaging>gwt-lib</packaging>
-    <version>1.0-SNAPSHOT</version>
+    <version>1.0</version>
     <name>twitter-text</name>
 
     <properties>
